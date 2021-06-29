@@ -55,7 +55,6 @@ if ( isset($_POST['Logout'])) {
 $names = array("Rock", "Paper", "Scissors");
 
 function check($c, $h) {
-    //basically set r,p,s to a numbering system where one variable is greater than another and then return that variable as victor and whoever chose the higher variable declare as winner!//
     
 
     if ($c == '0' && $h == '0') {
