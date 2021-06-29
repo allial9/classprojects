@@ -8,6 +8,7 @@
 <!--View-->
 <head>
 <link rel="stylesheet" href="rps_style.css">
+    <title>a0f9dfdc</title>
 </head>
 <body>
 <h1>Welcome to Rock Paper Scissors</h1>
